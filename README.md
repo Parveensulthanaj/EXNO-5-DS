@@ -137,4 +137,4 @@ plt.show()
 <img width="793" height="569" alt="ds5 11" src="https://github.com/user-attachments/assets/4d4e9d1c-6ede-4cb6-8063-03ee131a2a9d" />
 
 # Result:
- Include your result here
+Thus, all the data visualization techniques of matplotlib has been implemented.
